@@ -231,9 +231,13 @@ acme:
 modules:
   mod_adhoc: {}
   mod_admin_extra: {}
+  mod_auth_fast:
+    token_lifetime: 14day
   mod_announce:
     access: announce
   mod_avatar: {}
+  mod_block_strangers:
+    log: true
   mod_blocking: {}
   mod_bosh: {}
   mod_conversejs:

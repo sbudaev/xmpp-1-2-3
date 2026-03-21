@@ -272,6 +272,7 @@ modules:
   mod_client_state: {}
   mod_configure: {}
   mod_disco: {}
+  mod_s2s_bidi: {}
   mod_fail2ban: {}
   mod_http_api: {}
   mod_http_upload:

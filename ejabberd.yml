@@ -13,7 +13,6 @@
 ### *******************************************************
 ### Refer to http://en.wikipedia.org/wiki/YAML for the brief description.
 ###
-### $Id: ejabberd.yml 1790 2026-03-14 15:30:37Z budaev $
 ###
 
 hosts:
